@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1572658438 source:c:\users\user\documents\codeblockprograms\compress_text_file\main.cpp
+	<iostream>
+	<string>
+	<unordered_map>
+	<queue>
+	<vector>
+
